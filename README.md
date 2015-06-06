@@ -1,2 +1,2 @@
 # mod_wallz
-Apache mod to mitigate Layer 7 DDoS attacks
+I am creating this module for use of securing my server so that instead of using mod_security and mod_evasive, I have the 2 mods in this mod, and hopefully more powerful, this is only a small personal project, so if you wanna commit something you can, but I will usually deny the commit because the code on my computer is more updated than the commited one, but at the end it will be merged.
